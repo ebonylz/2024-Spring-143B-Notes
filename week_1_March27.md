@@ -5,7 +5,7 @@
 
 ## How to store code in markdown file
 
-'''java
+```java
 
 public class HelloWorld {
 
@@ -22,4 +22,4 @@ public class HelloWorld {
         System.out.printf("The total after %d years is %.2f", numOfYears, total);
     }
 
-'''
+```
